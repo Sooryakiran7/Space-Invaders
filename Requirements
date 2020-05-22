@@ -1,0 +1,4 @@
+You need Python 2.7 or any version of python 3
+Turtle graphics will come with python 
+Some linux distros wont have it so
+go to terminal and type     sudo apt install python-tk or sudo apt install python3--tk
